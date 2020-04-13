@@ -17,3 +17,8 @@ Released under the Apache 2.0 license - see the LICENSE file for details.
 Developed by Andreas Jakl
 * https://www.andreasjakl.com/
 * https://twitter.com/andijakl
+
+Future Software Additions:
+
+- neuro diagnostic labels
+- coloured FPOT regions
